@@ -1,6 +1,6 @@
 # 📊 Portfolio Data Analyst | Maxent Laurent
 
-Ce dépôt contient les projets réalisés dans le cadre du parcours de formation Data Analyst dispensé par OpenClassrooms. De la collecte de données brutes au déploiement de modèles de Machine Learning, ces projets illustrent ma capacité à traiter, analyser et visualiser la donnée pour répondre à des problématiques métiers concrètes.
+Ce dépôt contient l'ensemble des projets réalisés dans le cadre du parcours de formation Data Analyst dispensé par OpenClassrooms. De la collecte de données brutes au déploiement de modèles de Machine Learning, ces projets illustrent ma capacité à traiter, analyser et visualiser la donnée pour répondre à des problématiques métiers concrètes.
 
 ## 🔧 Outils et Technologies utilisés
 
@@ -14,14 +14,14 @@ Ce dépôt contient les projets réalisés dans le cadre du parcours de formatio
 | **Scikit-learn** | ✓ | ✓ | | | | | | | | |
 | **SQL** | | | | | ✓ | | | ✓ | | ✓ |
 | **SQLite** | | | | | | | | ✓ | | ✓ |
-| **Snowflake** | | | | | ✓ | | | | | |
 | **dbt** | | | | | ✓ | | | | | |
+| **Snowflake** | | | | | ✓ | | | | | |
 | **Power BI** | | | ✓ | | | ✓ | | | | |
 | **Power Query** | | | ✓ | | | ✓ | | | | |
 
 ---
 
-## [Projet 12 : Détectez des faux billets avec Python](./P12 - Détectez des faux billets avec R ou Python)
+## [Projet 12 : Détectez des faux billets avec Python](<./P12 - Détectez des faux billets avec R ou Python>)
 **🎓 Compétences acquises**
 * Utiliser un modèle d'apprentissage supervisé pour réaliser une prédiction (Régression logistique, kNN, Random Forest).
 * Entraîner un modèle d'apprentissage non supervisé (K-means).
@@ -38,7 +38,7 @@ En tant que consultant Data Analyst, j'effectue une mission pour l’Organisatio
 
 ---
 
-## [Projet 11 : Produisez une étude de marché avec Python](./P11 - Produisez une étude de marché avec R ou Python)
+## [Projet 11 : Produisez une étude de marché avec Python](<./P11 - Produisez une étude de marché avec R ou Python>)
 **🎓 Compétences acquises**
 * Réduire la dimension du jeu de données pour optimiser le temps d'apprentissage (ACP).
 * Exploiter un modèle d'apprentissage non supervisé (Clustering CAH et K-Means).
@@ -55,7 +55,7 @@ En poste chez *La poule qui chante*, une entreprise française d’agroalimentai
 
 ---
 
-## [Projet 10 : Faites une étude sur l'eau potable avec Power BI](./P10 - Faites une étude sur l'eau potable)
+## [Projet 10 : Faites une étude sur l'eau potable avec Power BI](<./P10 - Faites une étude sur l'eau potable>)
 **🎓 Compétences acquises**
 * Proposer un récit des résultats dynamique pour engager un public (Data Storytelling).
 * Optimiser une solution de visualisation accessible, adaptée au public (daltonisme, contrastes).
@@ -71,7 +71,7 @@ Consultant Data Analyst pour l’ONG *Drinking Water For All* (DWFA). L'associat
 
 ---
 
-## [Projet 9 : Analysez les ventes d'une librairie avec Python](./P9 - Analysez les ventes d'une librairie avec R ou Python)
+## [Projet 9 : Analysez les ventes d'une librairie avec Python](<./P9 - Analysez les ventes d'une librairie avec R ou Python>)
 **🎓 Compétences acquises**
 * Réaliser un test statistique (Pearson, ANOVA, Chi-2).
 * Réaliser une analyse bivariée pour interpréter des données.
@@ -87,7 +87,7 @@ Consultant Data Analyst rattaché au service Marketing chez *Lapage*, une grande
 
 ---
 
-## [Projet 8 : Analysez l'évolution de profils avec dbt et Snowflake](./P8 - Analysez l'évolution de profils sociodémographiques avec DBT)
+## [Projet 8 : Analysez l'évolution de profils avec dbt et Snowflake](<./P8 - Analysez l'évolution de profils sociodémographiques avec DBT>)
 **🎓 Compétences acquises**
 * Agréger des extractions de données en définissant les règles de nettoyage via dbt.
 * Collecter des données pertinentes en respect des normes et bonnes pratiques (RGPD).
@@ -103,7 +103,7 @@ Data Analyst junior chez OpenClassrooms. La direction pédagogique souhaite obje
 
 ---
 
-## [Projet 7 : Créez un tableau de bord dynamique avec Power BI](./P7 - Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets)
+## [Projet 7 : Créez un tableau de bord dynamique avec Power BI](<./P7 - Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets>)
 **🎓 Compétences acquises**
 * Produire un reporting en analysant les visualisations pour faciliter les décisions.
 * Nettoyer et transformer la donnée via Power Query.
@@ -119,7 +119,7 @@ Déployé par mon ESN chez le client *Sanitoral*, je dois fournir au Project Man
 
 ---
 
-## [Projet 6 : Optimisez la gestion des données d'une boutique](./P6 - Optimisez la gestion des données d'une boutique avec R ou Python)
+## [Projet 6 : Optimisez la gestion des données d'une boutique](<./P6 - Optimisez la gestion des données d'une boutique avec R ou Python>)
 **🎓 Compétences acquises**
 * Traiter, nettoyer des données et définir la gestion des incohérences.
 * Effectuer des analyses univariées et multivariées.
@@ -135,7 +135,7 @@ Data Analyst freelance chez *BottleNeck*, un marchand de vin prestigieux dont la
 
 ---
 
-## [Projet 5 : Créez et utilisez une base de données immobilière avec SQL](./P5 - Créez et utilisez une base de données immobilière avec SQL)
+## [Projet 5 : Créez et utilisez une base de données immobilière avec SQL](<./P5 - Créez et utilisez une base de données immobilière avec SQL>)
 **🎓 Compétences acquises**
 * Créer le schéma relationnel d'une base de données (norme 3NF).
 * Créer des tables et charger des données dans une base de données.
@@ -151,7 +151,7 @@ Embauché chez *Laplace Immo*, je participe au projet "DATAImmo". L'agence souha
 
 ---
 
-## [Projet 4 : Réalisez une étude de santé publique avec Python](./P4 - Réalisez une étude de santé publique avec R ou Python)
+## [Projet 4 : Réalisez une étude de santé publique avec Python](<./P4 - Réalisez une étude de santé publique avec R ou Python>)
 **🎓 Compétences acquises**
 * Explorer et analyser des données en utilisant des langages et outils métiers.
 * Manipuler des DataFrames complexes.
@@ -166,7 +166,7 @@ Intégration d'une équipe de chercheurs à la *FAO* (Food and Agriculture Organ
 
 ---
 
-## [Projet 3 : Requêtez une base de données avec SQL](./P3 - Requêtez une base de données avec SQL)
+## [Projet 3 : Requêtez une base de données avec SQL](<./P3 - Requêtez une base de données avec SQL>)
 **🎓 Compétences acquises**
 * Charger des données dans une base de données.
 * Créer un schéma d'une base de données.
