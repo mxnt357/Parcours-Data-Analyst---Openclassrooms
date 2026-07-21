@@ -1,6 +1,6 @@
 # 📊 Portfolio Data Analyst | Maxent Laurent
 
-Ce dépôt contient l'ensemble des projets réalisés dans le cadre du parcours de formation Data Analyst dispensé par OpenClassrooms. De la collecte de données brutes au déploiement de modèles de Machine Learning, ces projets illustrent ma capacité à traiter, analyser et visualiser la donnée pour répondre à des problématiques métiers concrètes.
+Ce dépôt contient les projets réalisés dans le cadre du parcours de formation Data Analyst dispensé par OpenClassrooms. De la collecte de données brutes au déploiement de modèles de Machine Learning, ces projets illustrent ma capacité à traiter, analyser et visualiser la donnée pour répondre à des problématiques métiers concrètes.
 
 ## 🔧 Outils et Technologies utilisés
 
